@@ -6,7 +6,7 @@ print("My name is: ", a)
 
 name = "AbuTalha"
 friend = "Khalil"
-other_friend = "shuja"
+other_friend = "" 
 print("Hello," + name)
 
 apple = "He said,\"He want to eat apple \" "
